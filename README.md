@@ -1,3 +1,5 @@
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=wernancheta&url=https://github.com/anchetaWern/delicious-php&title=delicious-php&language=php&tags=github&category=software)
+
 delicious-php
 =============
 
